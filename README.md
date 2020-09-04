@@ -21,7 +21,7 @@ between online e-commerce platforms and in-person shopping.
 
 ### Clone this repository:
 
-git clone 
+git clone https://github.com/wzhang2705/queue-tracker.git
 
 ### install dependencies:
   ```bash
