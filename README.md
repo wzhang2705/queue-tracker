@@ -29,6 +29,7 @@ git clone https://github.com/wzhang2705/queue-tracker.git
   ```
 
 * Note that this may return an error in installing blockstack. If this is the case, try:
+  
   ```bash 
   npm install blockstack
   npm install
