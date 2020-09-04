@@ -1,3 +1,28 @@
+# Q...
+
+This project is updated from my tohacks project (tohacks-1 repo), which won Best Use of Blockstack.
+Q... is an online queue tracker 
+
+## To set up the application locally:
+
+### Clone this repository:
+
+git clone 
+
+### install dependencies:
+  ```bash
+  npm install
+  ```
+
+* Note that this may return an error in installing blockstack. If this is the case, try:
+  ```bash 
+  npm install blockstack
+  npm install
+  ```
+
+This application uses Blockstack to create a decentralized login process.
+### Upon logging in, 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
