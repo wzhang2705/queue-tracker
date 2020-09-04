@@ -1,7 +1,21 @@
 # Q...
 
 This project is updated from my tohacks project (tohacks-1 repo), which won Best Use of Blockstack.
-Q... is an online queue tracker 
+Q... is an online queue tracker designed specifically to tackle the issue of long line-ups in stores during
+the COVID-19 pandemic. 
+
+During this time, many stores have reasonably cut down on their capacity. However, people still need a means
+of attaining groceries and necessary household products. Thus, long line-ups in front become very common. Not
+only can this be frustrating for people who have to wait in line, but is more importantly a safety hazard to be
+in large crowds at this time.
+
+For this sample application, we use Costco as an example of a busy store that may benefit in having an online queue
+system like Q... Users can sign up and log in to the web application, where they can search for stores and enter in
+the custom online queue that stores can use. This way, customers can wait in line virtually, get a gist of how long their
+line up will take, and when its their turn, arrive at the store just in time to go in and pick up whatever they need.
+
+I hope that in looking at Q..., we can strive to create an omnichannel bridge that brings a seamless experience
+between online e-commerce platforms and in-person shopping.
 
 ## To set up the application locally:
 
@@ -21,7 +35,11 @@ git clone
   ```
 
 This application uses Blockstack to create a decentralized login process.
-### Upon logging in, 
+### To log in, you need a blockstack id.
+You can either create your own, or use a sample one I created earlier.
+
+Username: wenzhang
+Password: blockstack
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
