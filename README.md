@@ -17,6 +17,11 @@ line up will take, and when its their turn, arrive at the store just in time to 
 I hope that in looking at Q..., we can strive to create an omnichannel bridge that brings a seamless experience
 between online e-commerce platforms and in-person shopping.
 
+This application is created using React in the frontend, with Google Maps API to render the map of the stores. Blockstack
+was used to create a decentralized log in process.
+
+To test the application after setting it up, type 'Costco' in the search for an example.
+
 ## To set up the application locally:
 
 ### Clone this repository:
