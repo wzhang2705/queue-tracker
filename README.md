@@ -46,8 +46,8 @@ This application uses Blockstack to create a decentralized login process.
 ### To log in, you need a blockstack id.
 You can either create your own, or use a sample one I created earlier.
 
-Username: wenzhang
-Password: blockstack
+* Username: wenzhang
+* Password: blockstack
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
