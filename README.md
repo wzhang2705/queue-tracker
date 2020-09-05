@@ -1,5 +1,7 @@
 # Q...
 
+This application has been deployed using Github pages and can be found at https://wzhang2705.github.io/queue-tracker/
+
 This project is updated from my tohacks project (tohacks-1 repo), which won Best Use of Blockstack.
 Q... is an online queue tracker designed specifically to tackle the issue of long line-ups in stores during
 the COVID-19 pandemic. 
